@@ -1,4 +1,4 @@
-## LARAPICKER
+## LARACLOTHES
 
 Larapicker web builder is used to create dynamic web, making rest API, Dynamic Forms, CRUD dynamic and Page Builder incredible, build web application fast and possible base on Laravel Framework.
 
